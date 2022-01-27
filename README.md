@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @SahilSR81
 - 👀 I’m interested in data analytics and databases
 - 🌱 I’m currently pursuing my bachelor's degree in computer science
-      Also I enrolled in IBM data analyst professional Certification
-- 💞️ I’m looking  for mates to help me into developing new skills for my career in data analytics  
+      and I am currently enrolled in IBM data analyst professional Certification Course
+- 💞️ I’m looking for mates to help me in developing new skills for my career in data analytics  
 - 📫 You can connect with me through mail: sahilrajputsigh81@gmail.com , 
 IG : sahilsinghrajput81 , 
 LinkedIn : www.linkedin.com/in/sahil-singh-169168179
+- Thank you for Checking my profile 
 
 
 <!---
