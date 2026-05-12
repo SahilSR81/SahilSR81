@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 <!-- Animated Header -->
@@ -24,8 +22,7 @@
 ```yaml
 name       : Sahil Singh
 role       : QA Automation Engineer | Aspiring SDET
-education  : MCA @ Sarala Birla University, Ranchi (CGPA: 8.93)
-location   : Ranchi, Jharkhand, India
+education  : MCA @ Sarala Birla University, Ranchi.
 status     : Actively learning & building
 focus      : End-to-End Test Automation | API Testing | CI/CD Pipelines
 ```
@@ -64,12 +61,6 @@ I'm an MCA student passionate about **software quality** and **test automation**
 ![Apache POI](https://img.shields.io/badge/Apache%20POI-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Log4j2](https://img.shields.io/badge/Log4j2-007396?style=for-the-badge&logo=apache&logoColor=white)
 ![OpenCSV](https://img.shields.io/badge/OpenCSV-4CAF50?style=for-the-badge&logoColor=white)
-
-### 🌐 Web & Backend
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ---
 
@@ -133,10 +124,11 @@ Co-developed an AI-powered quiz platform supporting **50+ students** and generat
 | 🏅 Achievement | 📌 Details |
 |---|---|
 | 🔥 50-Day QA Challenge | Daily Python + Selenium commits for 50 consecutive days |
-| 🧠 1800+ CodeChef Problems | Strong algorithmic & problem-solving foundation |
+| 🧠 Consistent DSA & Problem Solving Practice | Strong algorithmic & problem-solving foundation |
 | 🎓 MCA — CGPA 8.93 | Sarala Birla University, Ranchi |
-| 🚀 MindMash Live App | 50+ users, 170+ AI-generated quizzes in production |
-| 📜 Internshala QA Certification | Manual Testing, Selenium, Postman, Python, SQL — Dec 2025 to May 2026 |
+| 🚀 MindMash - AI Quiz Platform | 50+ users, 170+ AI-generated quizzes in production |
+| 📜 Internshala QA Certification | Manual Testing, Selenium, Postman, Python, Java, SQL — Dec 25 to May 26 |
+> Note: GitHub streak counter reset due to missed public contribution sync, but challenge continuity was maintained manually.
 
 ---
 
