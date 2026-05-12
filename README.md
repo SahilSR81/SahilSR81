@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sahil%20Singh&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Aspiring%20SDET&descAlignY=58&descColor=8b949e" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Test+Frameworks+%F0%9F%9A%80;Selenium+%7C+TestNG+%7C+Postman+%7C+Java;1800%2B+Problems+on+CodeChef+%F0%9F%A7%A0;50-Day+Python+Selenium+QA+Challenge+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Test+Frameworks+%F0%9F%9A%80;Selenium+%7C+TestNG+%7C+Postman+%7C+Java;Consistent+DSA+%26+Problem+Solving+Practice+%F0%9F%A7%A0;50-Day+Python+Selenium+QA+Challenge+%E2%9C%85)](https://git.io/typing-svg)
 
 <br/>
 
