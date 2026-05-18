@@ -37,8 +37,10 @@ I'm an MCA student passionate about **software quality** and **test automation**
 
 ### 🤖 Automation & Testing
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Playwright](https://img.shields.io/badge/Playwright-1E90FF?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
+[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
 ![ExtentReports](https://img.shields.io/badge/ExtentReports-5C2D91?style=for-the-badge&logoColor=white)
 ![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-007ACC?style=for-the-badge&logoColor=white)
 ![Data Driven Testing](https://img.shields.io/badge/Data--Driven%20Testing-E44D26?style=for-the-badge&logoColor=white)
@@ -66,7 +68,7 @@ I'm an MCA student passionate about **software quality** and **test automation**
 
 ## 🚀 Projects
 
-### 🧪 [End-to-End QA Automation Framework](https://github.com/SahilSR81) — DemoWebShop
+### 🧪 [End-to-End QA Automation Framework](https://github.com/SahilSR81/End2End-QA-Automation-Framework)
 > **Java · Selenium WebDriver · TestNG · Maven · ExtentReports · PostgreSQL**
 
 A full-scale automation framework covering **139 test cases** across **10 functional modules** with a **97.9% pass rate**. Built with Page Object Model, multi-browser support (Chrome, Firefox, Edge), parallel execution (50% faster), and integrated PostgreSQL for end-to-end DB validation.
@@ -80,7 +82,7 @@ Designed an API testing suite with **46 assertions across 12 endpoints**. Covers
 
 ---
 
-### 🛒 [Selenium Automation Framework](https://github.com/SahilSR81) — E-Commerce
+### 🛒 [Selenium Automation Framework](https://github.com/SahilSR81/Selenium-Automation-Framework)
 > **Java · Selenium · TestNG · Maven · ExtentReports · Apache POI · CI/CD**
 
 Automated complete e-commerce workflows (registration → checkout) with **21 critical test cases**. Implemented retry mechanisms, smart wait strategies, and multi-browser parallel execution — reducing manual testing effort by **40%**.
@@ -94,7 +96,7 @@ Daily commits for 50 days building Python-based QA automation expertise. Each da
 
 ---
 
-### 🎓 [MindMash — AI Quiz Platform](https://github.com/SahilSR81)
+### 🎓 [MindMash — AI Quiz Platform](https://github.com/SahilSR81/Python-Selenium-QA)
 > **Next.js · TypeScript · Firebase · Google Gemini · Tailwind CSS**
 
 Co-developed an AI-powered quiz platform supporting **50+ students** and generating **170+ AI quizzes**. Integrated Google Gemini for intelligent quiz generation with real-time Firebase backend for likes, comments, and user sessions.
