@@ -115,7 +115,7 @@ Co-developed an AI-powered quiz platform supporting **50+ students** and generat
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SahilSR81&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SahilSR81&theme=github-dark-blue&t=1748640000)](https://git.io/streak-stats)
 
 </div>
 
