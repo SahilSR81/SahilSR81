@@ -21,10 +21,11 @@
 
 ```yaml
 name       : Sahil Singh
-role       : QA Automation Engineer | Aspiring SDET
-education  : MCA @ Sarala Birla University, Ranchi.
-status     : Actively learning & building
+role       : QA Automation Engineer | Playwright & Selenium Automation
 focus      : End-to-End Test Automation | API Testing | CI/CD Pipelines
+primary    : Playwright + Pytest + Python
+secondary  : Selenium + TestNG + Java
+education  : MCA @ Sarala Birla University, Ranchi.
 ```
 
 > *"Building discipline every day for the future self."*
@@ -36,18 +37,18 @@ I'm an MCA student passionate about **software quality** and **test automation**
 ## 🛠️ Tech Stack & Tools
 
 ### 🤖 Automation & Testing
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Playwright](https://img.shields.io/badge/Playwright-1E90FF?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 ![ExtentReports](https://img.shields.io/badge/ExtentReports-5C2D91?style=for-the-badge&logoColor=white)
 ![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-007ACC?style=for-the-badge&logoColor=white)
 ![Data Driven Testing](https://img.shields.io/badge/Data--Driven%20Testing-E44D26?style=for-the-badge&logoColor=white)
 
 ### 💻 Programming Languages
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### 🗄️ Databases
@@ -67,6 +68,13 @@ I'm an MCA student passionate about **software quality** and **test automation**
 ---
 
 ## 🚀 Projects
+
+### 🏦 [Fintech Banking Automation Framework](https://github.com/SahilSR81/fintech-playwright-framework-main)
+> **Playwright · Python · Pytest · Allure Reports · GitHub Actions**
+
+Built a Playwright-based E2E automation framework covering 35 test cases across 14 banking modules. Implemented Page Object Model, cross-browser testing (Chromium, Firefox, WebKit), Allure reporting and CI/CD execution through GitHub Actions.
+
+---
 
 ### 🧪 [End-to-End QA Automation Framework](https://github.com/SahilSR81/End2End-QA-Automation-Framework)
 > **Java · Selenium WebDriver · TestNG · Maven · ExtentReports · PostgreSQL**
@@ -96,7 +104,7 @@ Daily commits for 50 days building Python-based QA automation expertise. Each da
 
 ---
 
-### 🎓 [MindMash — AI Quiz Platform](https://github.com/SahilSR81/Python-Selenium-QA)
+### 🎓 [MindMash — AI Quiz Platform](https://mind-mash-v3.vercel.app)
 > **Next.js · TypeScript · Firebase · Google Gemini · Tailwind CSS**
 
 Co-developed an AI-powered quiz platform supporting **50+ students** and generating **170+ AI quizzes**. Integrated Google Gemini for intelligent quiz generation with real-time Firebase backend for likes, comments, and user sessions.
@@ -107,7 +115,7 @@ Co-developed an AI-powered quiz platform supporting **50+ students** and generat
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahilSR81&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=SahilSR81&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e](https://github-readme-stats.vercel.app/api?username=SahilSR81&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSR81&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
@@ -130,16 +138,15 @@ Co-developed an AI-powered quiz platform supporting **50+ students** and generat
 | 🎓 MCA — CGPA 8.93 | Sarala Birla University, Ranchi |
 | 🚀 MindMash - AI Quiz Platform | 50+ users, 170+ AI-generated quizzes in production |
 | 📜 Internshala QA Certification | Manual Testing, Selenium, Postman, Python, Java, SQL — Dec 25 to May 26 |
-> Note: GitHub streak counter reset due to missed public contribution sync, but challenge continuity was maintained manually.
 
 ---
 
 ## 📚 Currently Learning
 
-- 🎭 **Playwright** + Python for modern browser automation
-- 🐍 **Python Requests** for API automation
-- 🔄 **CI/CD pipelines** with GitHub Actions
-- 📊 **Advanced SQL** for test data validation
+- 🎭 **Playwright with Python Advanced Patterns** 
+- 🐍 **API Automation with Playwright& Python Requests**
+- 🔄 **CI/CD pipelines with GitHub Actions** 
+- 📊 **Advanced SQL for test data validation** 
 
 ---
 
