@@ -20,7 +20,6 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name       : Sahil Singh
 role       : QA Automation Engineer | Playwright & Selenium Automation
 focus      : End-to-End Test Automation | API Testing | CI/CD Pipelines
 primary    : Playwright + Pytest + Python
