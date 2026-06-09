@@ -115,8 +115,6 @@ Co-developed an AI-powered quiz platform supporting **50+ students** and generat
 
 <div align="center">
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=SahilSR81&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e](https://github-readme-stats.vercel.app/api?username=SahilSR81&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSR81&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 
 </div>
