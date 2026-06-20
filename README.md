@@ -24,6 +24,7 @@ role       : QA Automation Engineer | Playwright & Selenium Automation
 focus      : End-to-End Test Automation | API Testing | CI/CD Pipelines
 primary    : Playwright + Pytest + Python
 secondary  : Selenium + TestNG + Java
+api_testing  : Playwright APIRequestContext | Postman | REST Assured
 education  : MCA @ Sarala Birla University, Ranchi.
 ```
 
@@ -42,6 +43,7 @@ I'm an MCA student passionate about **software quality** and **test automation**
 [![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 ![ExtentReports](https://img.shields.io/badge/ExtentReports-5C2D91?style=for-the-badge&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-Reports-FF6B6B?style=for-the-badge&logoColor=white)
 ![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-007ACC?style=for-the-badge&logoColor=white)
 ![Data Driven Testing](https://img.shields.io/badge/Data--Driven%20Testing-E44D26?style=for-the-badge&logoColor=white)
 
@@ -82,10 +84,13 @@ A full-scale automation framework covering **139 test cases** across **10 functi
 
 ---
 
-### 📮 [CRM API Testing Framework](https://github.com/SahilSR81) — Postman
-> **Postman · REST API · JavaScript · CSV**
+### 🚀 [Playwright RESTful Booker API Framework](https://github.com/SahilSR81/playwright-restful-booker-api)
+> **Playwright · Python · Pytest · Allure Reports · GitHub Actions**
 
-Designed an API testing suite with **46 assertions across 12 endpoints**. Covers authentication, CRUD operations, negative testing, and data-driven runs via CSV. Includes Postman Mock Server for testing unavailable CRM endpoints.
+Production-grade API automation framework with **46 tests across 7 modules** covering 
+authentication, CRUD, contract testing & data-driven scenarios — **100% pass rate**. 
+Implements JSON Schema validation, custom API client, parameterized testing, and full 
+CI/CD via GitHub Actions.
 
 ---
 
