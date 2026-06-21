@@ -20,12 +20,12 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-role       : QA Automation Engineer | Playwright & Selenium Automation
-focus      : End-to-End Test Automation | API Testing | CI/CD Pipelines
-primary    : Playwright + Pytest + Python
-secondary  : Selenium + TestNG + Java
+role         : QA Automation Engineer | Playwright & Selenium Automation
+focus        : End-to-End Test Automation | API Testing | CI/CD Pipelines
+primary      : Playwright + Pytest + Python
+secondary    : Selenium + TestNG + Java
 api_testing  : Playwright APIRequestContext | Postman | REST Assured
-education  : MCA @ Sarala Birla University, Ranchi.
+education    : MCA @ Sarala Birla University, Ranchi.
 ```
 
 > *"Building discipline every day for the future self."*
