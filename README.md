@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahilSR81)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahilsinghraj)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilrajputsingh81@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1oeBaXZQp47xrO9zpeDb1w0eJccJJOogwUnaOsN4aRT8/view)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1-jKkcvlPgsBI2_-it66P2C9PWYHW7ozS/view?usp=sharing)
 
 </div>
 
