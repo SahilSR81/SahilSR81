@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Test+Frameworks+%F0%9F%9A%80;Selenium+%7C+Playwright+%7C+Pytest+%7C+TestNG+%7C+Postman+%7C+Java;Learning+Modern+Playwright+%26+Pytest+Automation+%F0%9F%94%A5;Consistent+DSA+%26+Problem+Solving+Practice+%F0%9F%A7%A0;50-Day+Python+Selenium+QA+Challenge+%E2%9C%85)](https://git.io/typing-svg)
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-singh-86645140a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsingh81)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahilSR81)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahilsinghraj)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilrajputsingh81@gmail.com)
