@@ -140,11 +140,8 @@ Co-developed an AI-powered quiz platform supporting **50+ students** and generat
 ## 🏆 QA Bazaar Achievements
 
 [![QA Bazaar Certificate](https://img.shields.io/badge/QA%20Bazaar-Certificate-success?style=for-the-badge)](https://www.qabazaar.com/certificate/1c221612-142d-45ad-b28b-9ec95b48ed62)
-
 [![Trailblazer](https://img.shields.io/badge/Trailblazer-Level%201%20(100%2F100)-blue?style=for-the-badge)](https://www.qabazaar.com/badge/31433af1-6402-42df-9dac-1abda40f5c71)
-
 [![Track Reader](https://img.shields.io/badge/Track%20Reader-Level%202%20(85%2F100)-orange?style=for-the-badge)](https://www.qabazaar.com/badge/c9693ac1-7622-4c43-956d-a24fc25f3d11)
-
 [![Edge Walker](https://img.shields.io/badge/Edge%20Walker-Level%203%20(82%2F100)-green?style=for-the-badge)](https://www.qabazaar.com/badge/6bd2b2b1-b506-43a5-af6e-cee73a10bcef)
 
 ---
