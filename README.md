@@ -119,12 +119,6 @@ Co-developed an AI-powered quiz platform supporting **50+ students** and generat
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSR81&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SahilSR81&theme=microsoft-dark&t=1752420000)](https://git.io/streak-stats)
 
 </div>
@@ -143,12 +137,15 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSR81&layout=
 
 ---
 
-## 📚 Currently Learning
+## 🏆 QA Bazaar Achievements
 
-- 🎭 **Playwright with Python Advanced Patterns** 
-- 🐍 **API Automation with Playwright& Python Requests**
-- 🔄 **CI/CD pipelines with GitHub Actions** 
-- 📊 **Advanced SQL for test data validation** 
+[![QA Bazaar Certificate](https://img.shields.io/badge/QA%20Bazaar-Certificate-success?style=for-the-badge)](https://www.qabazaar.com/certificate/1c221612-142d-45ad-b28b-9ec95b48ed62)
+
+[![Trailblazer](https://img.shields.io/badge/Trailblazer-Level%201%20(100%2F100)-blue?style=for-the-badge)](https://www.qabazaar.com/badge/31433af1-6402-42df-9dac-1abda40f5c71)
+
+[![Track Reader](https://img.shields.io/badge/Track%20Reader-Level%202%20(85%2F100)-orange?style=for-the-badge)](https://www.qabazaar.com/badge/c9693ac1-7622-4c43-956d-a24fc25f3d11)
+
+[![Edge Walker](https://img.shields.io/badge/Edge%20Walker-Level%203%20(82%2F100)-green?style=for-the-badge)](https://www.qabazaar.com/badge/6bd2b2b1-b506-43a5-af6e-cee73a10bcef)
 
 ---
 
