@@ -8,7 +8,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsingh81)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahilSR81)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahilsinghraj)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilrajputsingh81@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1VAIFjLxoMHRCMb1GJjEYYoxlZaL4F_35/view?usp=drivesdk)
@@ -20,98 +19,133 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-role           : QA Automation Engineer | Playwright & Selenium Automation
-focus          : End-to-End Test Automation | API Testing | CI/CD Pipelines
-primary        : Playwright + Pytest + Python
-secondary      : Selenium + TestNG + Java
-api_testing    : Playwright APIRequestContext | Postman | REST Assured
-education      : MCA @ Sarala Birla University, Ranchi.
+role         : QA Automation Engineer
+specializes  : UI Automation • API Automation • CI/CD
+stack        : Playwright • Selenium • Python • Java
+currently    : Building production-grade automation frameworks
+goal         : Product-Based SDET
+location     : Ranchi, India 🇮🇳
 ```
 
-> *"Building discipline every day for the future self."*
-
-I'm an MCA student passionate about **software quality** and **test automation**. I build real-world frameworks — not just tutorials — using industry-standard tools like **Selenium**, **TestNG**, and **Postman**. I believe in learning by doing, so every project here is built from scratch with production-minded thinking.
+> *I enjoy building production-style automation frameworks instead of tutorial projects. Most of my work focuses on scalable test architecture, API automation, CI/CD integration, and improving software quality through automation.*
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🤖 Automation & Testing
-[![Playwright](https://img.shields.io/badge/Playwright-1E90FF?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
-[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://pytest.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodewebkit/nodewebkit-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" height="44"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="44"/>
+
 [![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+![REST Assured](https://img.shields.io/badge/REST_Assured-API_Testing-009688?style=for-the-badge)
 ![ExtentReports](https://img.shields.io/badge/ExtentReports-5C2D91?style=for-the-badge&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-Reports-FF6B6B?style=for-the-badge&logoColor=white)
-![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-007ACC?style=for-the-badge&logoColor=white)
-![Data Driven Testing](https://img.shields.io/badge/Data--Driven%20Testing-E44D26?style=for-the-badge&logoColor=white)
-
-### 💻 Programming Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### 🗄️ Databases
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### ⚙️ Build, CI/CD & Tools
-[![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 ![Apache POI](https://img.shields.io/badge/Apache%20POI-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Log4j2](https://img.shields.io/badge/Log4j2-007396?style=for-the-badge&logo=apache&logoColor=white)
-![OpenCSV](https://img.shields.io/badge/OpenCSV-4CAF50?style=for-the-badge&logoColor=white)
+</p>
+
+---
+## ⭐ Flagship Projects
+
+[![OrangeHRM Framework](https://img.shields.io/badge/🧪_OrangeHRM_Framework-F97316?style=for-the-badge)](https://github.com/SahilSR81/playwright-saas-workspace-framework)
+[![REST API Framework](https://img.shields.io/badge/🔌_REST_API_Framework-22C55E?style=for-the-badge)](https://github.com/SahilSR81/playwright-restful-booker-api)
+[![FinTech Framework](https://img.shields.io/badge/🏦_FinTech_Framework-2563EB?style=for-the-badge)](https://github.com/SahilSR81/fintech-playwright-framework-main)
+[![DemoWebShop](https://img.shields.io/badge/🛒_DemoWebShop-7C3AED?style=for-the-badge)](https://github.com/SahilSR81/End2End-QA-Automation-Framework)
+
+> 🧪 300+ Automated Test Cases | 🚀 7+ QA Projects | ⚙️ 4 Automation Frameworks | 🔌 UI + API + CI/CD | 🐧 Linux Daily Driver
 
 ---
 
-## 🚀 Projects
+## 🏆 Highlights
 
-### 🏦 [Fintech Banking Automation Framework](https://github.com/SahilSR81/fintech-playwright-framework-main)
-> **Playwright · Python · Pytest · Allure Reports · GitHub Actions**
-
-Built a Playwright-based E2E automation framework covering 35 test cases across 14 banking modules. Implemented Page Object Model, cross-browser testing (Chromium, Firefox, WebKit), Allure reporting and CI/CD execution through GitHub Actions.
-
----
-
-### 🧪 [End-to-End QA Automation Framework](https://github.com/SahilSR81/End2End-QA-Automation-Framework)
-> **Java · Selenium WebDriver · TestNG · Maven · ExtentReports · PostgreSQL**
-
-A full-scale automation framework covering **139 test cases** across **10 functional modules** with a **97.9% pass rate**. Built with Page Object Model, multi-browser support (Chrome, Firefox, Edge), parallel execution (50% faster), and integrated PostgreSQL for end-to-end DB validation.
+- 🔥 50-Day QA Challenge
+- 🚀 Built 7+ QA Projects
+- 🧪 300+ Automated Test Cases
+- 🎓 MCA (CGPA 8.93)
+- 📜 Internshala Certified
+- 🏅 QA Bazaar Edge Walker
 
 ---
 
-### 🚀 [Playwright RESTful Booker API Framework](https://github.com/SahilSR81/playwright-restful-booker-api)
-> **Playwright · Python · Pytest · Allure Reports · GitHub Actions**
+## 🎮 Quest Log
 
-Production-grade API automation framework with **46 tests across 7 modules** covering 
-authentication, CRUD, contract testing & data-driven scenarios — **100% pass rate**. 
-Implements JSON Schema validation, custom API client, parameterized testing, and full 
-CI/CD via GitHub Actions.
+### ✅ Completed
 
----
-
-### 🛒 [Selenium Automation Framework](https://github.com/SahilSR81/Selenium-Automation-Framework)
-> **Java · Selenium · TestNG · Maven · ExtentReports · Apache POI · CI/CD**
-
-Automated complete e-commerce workflows (registration → checkout) with **21 critical test cases**. Implemented retry mechanisms, smart wait strategies, and multi-browser parallel execution — reducing manual testing effort by **40%**.
+- [✅] **Boot** — Successfully deployed to Earth 🌍
+- [✅] **Debug Childhood** — Fixed basic human runtime errors 🧸
+- [✅] **Learn** — Compiling logic, curiosity, and test scripts ☕
+- [✅ ] **Anime Training Arc** — Character development patch installed. Discipline and communication stats increased ⚔️🍿
+- [✅] **Linux Ascension** — Escaped Windows. Never looked back 🐧
+- [✅] **Gym Transformation** — Strength +10 | Confidence +25 | Stamina +∞ 💪
+- [✅] **Postgraduate** — Completed the Master's DLC (MCA) 🎓
 
 ---
 
-### 🐍 [Python-Selenium QA — 50-Day Challenge](https://github.com/SahilSR81/Python-Selenium-QA)
-> **Python · Selenium · GitHub Actions**
+### 🎯 Current Mission
 
-Daily commits for 50 days building Python-based QA automation expertise. Each day adds a new real-world automation scenario. This repo is my discipline log — proof of consistent practice.
+- [ ] **Earn** — First job unlocked. Turning bug reports into salary 💸
+- [ ] **First Salary** — Achievement unlocked: "Maa, ho gaya." 💵
+- [ ] **Break Production** — Professionally finding bugs before users do 🐞
+- [ ] **Automate Everything** — Because repetitive clicking is a bug 🤖
+- [ ] **Reject "Works on My Machine"** — Lifetime mission 🫠
+- [ ] **Remote** — Working in pajamas, professionally 🌍
+- [ ] **Parents Proud** — Highest priority ticket resolved ❤️
 
 ---
 
-### 🎓 [MindMash — AI Quiz Platform](https://mind-mash-v3.vercel.app)
-> **Next.js · TypeScript · Firebase · Google Gemini · Tailwind CSS**
+### 🏁 Endgame
 
-Co-developed an AI-powered quiz platform supporting **50+ students** and generating **170+ AI quizzes**. Integrated Google Gemini for intelligent quiz generation with real-time Firebase backend for likes, comments, and user sessions.
+- [ ] **Validate** — UI, API & Backend checks passed for the perfect partner ❤️
+- [ ] **Merge to Main** — Marriage approved after successful code review 💍
+- [ ] **Code Freeze** — No breaking changes allowed 🧊
+- [ ] **Spawn v2.0** — Generating tiny humans with unpredictable behavior 👶
+- [ ] **Retirement** — Legacy system enters maintenance mode 🌴
+- [ ] **Shutdown** — Process exited with Exit Code 0. Logs archived. ⚫
 
 ---
 
@@ -125,24 +159,14 @@ Co-developed an AI-powered quiz platform supporting **50+ students** and generat
 
 ---
 
-## 🏆 Achievements
+## 🌱 Currently Learning
 
-| 🏅 Achievement | 📌 Details |
-|---|---|
-| 🔥 50-Day QA Challenge | Daily Python + Selenium commits for 50 consecutive days |
-| 🧠 Consistent DSA & Problem Solving Practice | Strong algorithmic & problem-solving foundation |
-| 🎓 MCA — CGPA 8.93 | Sarala Birla University, Ranchi |
-| 🚀 MindMash - AI Quiz Platform | 50+ users, 170+ AI-generated quizzes in production |
-| 📜 Internshala QA Certification | Manual Testing, Selenium, Postman, Python, Java, SQL — Dec 25 to May 26 |
-
----
-
-## 🏆 QA Bazaar Achievements
-
-[![QA Bazaar Certificate](https://img.shields.io/badge/QA%20Bazaar-Certificate-success?style=for-the-badge)](https://www.qabazaar.com/certificate/1c221612-142d-45ad-b28b-9ec95b48ed62)
-[![Trailblazer](https://img.shields.io/badge/Trailblazer-Level%201%20(100%2F100)-blue?style=for-the-badge)](https://www.qabazaar.com/badge/31433af1-6402-42df-9dac-1abda40f5c71)
-[![Track Reader](https://img.shields.io/badge/Track%20Reader-Level%202%20(85%2F100)-orange?style=for-the-badge)](https://www.qabazaar.com/badge/c9693ac1-7622-4c43-956d-a24fc25f3d11)
-[![Edge Walker](https://img.shields.io/badge/Edge%20Walker-Level%203%20(82%2F100)-green?style=for-the-badge)](https://www.qabazaar.com/badge/6bd2b2b1-b506-43a5-af6e-cee73a10bcef)
+- Playwright Advanced
+- Docker
+- Kubernetes
+- Jenkins
+- Performance Testing (JMeter/k6)
+- AI-assisted Test Automation
 
 ---
 
