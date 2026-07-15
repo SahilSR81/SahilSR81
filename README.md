@@ -113,7 +113,7 @@ I'm passionate about building automation that scales—not just scripts that pas
 - AI-assisted Testing
 - MCP for QA
 - Performance Testing
-- Kubernetes for Test Infrastructure
+- Advanced Docker
 
 </details>
 
