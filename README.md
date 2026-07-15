@@ -2,7 +2,6 @@
 
 I'm passionate about building automation that scales—not just scripts that pass. I enjoy understanding how applications behave, designing maintainable test architectures, and creating frameworks that help teams ship software with confidence. When I'm not automating workflows, I'm usually exploring Linux, improving developer tooling, or looking for the next repetitive task that deserves to disappear.
 
-> **Every repetitive click is a bug waiting to be automated.** 🤖
 #### 🛠️ Tech Stack & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/> &nbsp;
