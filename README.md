@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="380" alt="Sahil Singh"/>
-
 # Hi there 👋
 
 **If you're reading this, just know — you're doing amazing. Keep going.** ✨
@@ -17,11 +15,6 @@ QA Automation Engineer | Aspiring SDET | Building frameworks, not just test case
 ## 👨🏻‍💻 **About Me**
 
 I'm a QA Automation Engineer who builds production-grade automation frameworks — not tutorial projects. I believe every repetitive click is a bug waiting to be automated.
-
-- ✨ **Stack:** Playwright | Selenium | Python | Java
-- ⚡ **Currently:** Building scalable test architecture & CI/CD pipelines
-- 🎯 **Goal:** Product-Based SDET
-- 📍 **Location:** Ranchi, India 🇮🇳
 
 ---
 
@@ -126,6 +119,7 @@ I'm a QA Automation Engineer who builds production-grade automation frameworks �
 
 ### 🏦 FinTech Framework
 **Why:** Simulates a real-world financial application's QA pipeline — covering login flows, transaction validations, and edge-case scenarios in a domain where accuracy is non-negotiable.
+
 [Repo](https://github.com/SahilSR81/fintech-playwright-framework-main)
 
 </td>
@@ -133,6 +127,7 @@ I'm a QA Automation Engineer who builds production-grade automation frameworks �
 
 ### 🛒 DemoWebShop
 **Why:** End-to-end Selenium + Java framework tackling a full e-commerce workflow — from cart management to checkout validation — built to master Java-based test automation at scale.
+
 [Repo](https://github.com/SahilSR81/End2End-QA-Automation-Framework)
 
 </td>
@@ -245,11 +240,6 @@ Example:
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SahilSR81&show_icons=true&theme=microsoft-dark&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSR81&layout=compact&theme=microsoft-dark&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=SahilSR81&theme=microsoft-dark&hide_border=true)](https://git.io/streak-stats)
 
@@ -267,8 +257,6 @@ Example:
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
 
 *"Quality is not an act, it is a habit."* — Aristotle
 
