@@ -1,11 +1,10 @@
 ## 👨🏻‍💻 About Me
 
-I'm a QA Automation Engineer who builds production-grade automation frameworks — not tutorial projects. I believe every repetitive click is a bug waiting to be automated.
+I'm a QA Automation Engineer who builds production-grade automation frameworks — not tutorial projects. Every repetitive click is a bug waiting to be automated.
 
 - ✨ **Stack:** Playwright | Selenium | Python | Java
 - ⚡ **Currently:** Building scalable test architecture & CI/CD pipelines
-- 🎯 **Goal:** Product-Based SDET
-- 📍 **Location:** Ranchi, India 🇮🇳
+- 🎯 **Goal:** Product-Based SDET | 📍 Ranchi, India 🇮🇳
 
 <div align="center">
 
@@ -65,42 +64,12 @@ I'm a QA Automation Engineer who builds production-grade automation frameworks �
 
 ## ⭐ Flagship Projects
 
-<table>
-<tr>
-<td>
+- 🧪 [**OrangeHRM Framework**](https://github.com/SahilSR81/playwright-saas-workspace-framework) — Full POM framework for a real HRMS app with role-based logins, dynamic elements & CI-ready execution
+- 🔌 [**REST API Framework**](https://github.com/SahilSR81/playwright-restful-booker-api) — End-to-end contract testing, data-driven scenarios & schema validation for production-like REST APIs
+- 🏦 [**FinTech Framework**](https://github.com/SahilSR81/fintech-playwright-framework-main) — QA pipeline for a financial app covering login flows, transaction validations & edge-case scenarios
+- 🛒 [**DemoWebShop**](https://github.com/SahilSR81/End2End-QA-Automation-Framework) — Selenium + Java framework for full e-commerce workflow from cart management to checkout validation
 
-### 🧪 OrangeHRM Framework
-**Why:** Built a full-page-object-model framework for a real HRMS application to simulate enterprise-grade test automation with role-based logins, dynamic web elements, and CI-ready execution.
-[Repo](https://github.com/SahilSR81/playwright-saas-workspace-framework)
-
-</td>
-<td>
-
-### 🔌 REST API Framework
-**Why:** Designed to test a production-like REST API with end-to-end contract testing, data-driven scenarios, and schema validation — proving API automation beyond just sending GET requests.
-[Repo](https://github.com/SahilSR81/playwright-restful-booker-api)
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🏦 FinTech Framework
-**Why:** Simulates a real-world financial application's QA pipeline — covering login flows, transaction validations, and edge-case scenarios in a domain where accuracy is non-negotiable.
-[Repo](https://github.com/SahilSR81/fintech-playwright-framework-main)
-
-</td>
-<td>
-
-### 🛒 DemoWebShop
-**Why:** End-to-end Selenium + Java framework tackling a full e-commerce workflow — from cart management to checkout validation — built to master Java-based test automation at scale.
-[Repo](https://github.com/SahilSR81/End2End-QA-Automation-Framework)
-
-</td>
-</tr>
-</table>
-
-> 🧪 300+ Automated Test Cases | 🚀 7+ QA Projects | ⚙️ 4 Automation Frameworks | 🔌 UI + API + CI/CD
+> 🧪 300+ Test Cases | 🚀 7+ Projects | ⚙️ 4 Frameworks | 🔌 UI + API + CI/CD
 
 ---
 
@@ -108,7 +77,6 @@ I'm a QA Automation Engineer who builds production-grade automation frameworks �
 <summary><b>🎮 Quest Log</b></summary><br>
 
 **✅ Completed**
-
 - [x] **Boot** — Successfully deployed to Earth 🌍
 - [x] **Debug Childhood** — Fixed basic human runtime errors 🧸
 - [x] **Learn** — Compiling logic, curiosity, and test scripts ☕
@@ -118,7 +86,6 @@ I'm a QA Automation Engineer who builds production-grade automation frameworks �
 - [x] **Postgraduate** — Completed the Master's DLC (MCA) 🎓
 
 **🎯 Current Mission**
-
 - [ ] **Earn** — First job unlocked. Turning bug reports into salary 💸
 - [ ] **First Salary** — Achievement unlocked: "Maa, ho gaya." 💵
 - [ ] **Break Production** — Professionally finding bugs before users do 🐞
@@ -128,7 +95,6 @@ I'm a QA Automation Engineer who builds production-grade automation frameworks �
 - [ ] **Parents Proud** — Highest priority ticket resolved ❤️
 
 **🏁 Endgame**
-
 - [ ] **Validate** — UI, API & Backend checks passed for the perfect partner ❤️
 - [ ] **Merge to Main** — Marriage approved after successful code review 💍
 - [ ] **Code Freeze** — No breaking changes allowed 🧊
@@ -147,25 +113,20 @@ I'm a QA Automation Engineer who builds production-grade automation frameworks �
 
 <a href="https://www.linkedin.com/in/sahilsingh81">
 <img src="https://img.shields.io/badge/Internshala-QA_Testing-0077B5?style=for-the-badge&logo=internshala&logoColor=white" />
-</a>
-&nbsp;
+</a> &nbsp;
 <a href="https://www.linkedin.com/in/sahilsingh81">
 <img src="https://img.shields.io/badge/Selenium-Python-437CAC?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-&nbsp;
+</a> &nbsp;
 <a href="https://www.linkedin.com/in/sahilsingh81">
 <img src="https://img.shields.io/badge/Playwright-Microsoft-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
-&nbsp;
+</a> &nbsp;
 <a href="https://www.linkedin.com/in/sahilsingh81">
 <img src="https://img.shields.io/badge/Postman-API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </a>
 
-<br>
-
 > Add your certificate PNG images below and link them to the credential URL.
 
-<!-- 
+<!--
 Example:
 <a href="https://certificate-url.com">
 <img src="https://raw.githubusercontent.com/SahilSR81/SahilSR81/main/certifications/your-cert.png" width="180" alt="Cert Name"/>
@@ -181,12 +142,7 @@ Example:
 <details>
 <summary><b>🌱 Currently Learning</b></summary><br>
 
-- Playwright Advanced
-- Docker
-- Kubernetes
-- Jenkins
-- Performance Testing (JMeter/k6)
-- AI-assisted Test Automation
+- Playwright Advanced | Docker | Kubernetes | Jenkins | Performance Testing (JMeter/k6) | AI-assisted Test Automation
 
 </details>
 
@@ -195,9 +151,8 @@ Example:
 ## 📊 GitHub Stats
 
 <p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SahilSR81&theme=microsoft-dark&hide_border=true)](https://git.io/streak-stats)
-
+<img src="https://github-stats-extended.vercel.app/api?username=SahilSR81&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=SahilSR81&theme=microsoft-dark&hide_border=true" width="49%"/>
 </p>
 
 ---
