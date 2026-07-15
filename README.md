@@ -34,7 +34,7 @@ I'm passionate about building automation that scales—not just scripts that pas
 [![DemoWebShop](https://img.shields.io/badge/🛒_DemoWebShop-139_Test_Cases_•_Selenium_•_Postman_•_PostgreSQL-A855F7?style=plastic)](https://github.com/SahilSR81/End2End-QA-Automation-Framework)
 
 <details>
-<summary><b>🎮 Quest Log</b></summary><br>
+<summary><b>⚠️ HR Usually Skips This Part.</b></summary>
 
 **✅ Completed**
 - [x] **Boot** — Successfully deployed to Earth 🌍
