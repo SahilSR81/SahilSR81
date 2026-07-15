@@ -101,6 +101,6 @@ Example:
 
 #### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=SahilSR81&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=SahilSR81&theme=microsoft-dark&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=SahilSR81&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent"&hide_border=true width="34%"/>
+<img src="https://streak-stats.demolab.com?user=SahilSR81&theme=microsoft-dark&hide_border=true" width="34%"/>
 </p>
