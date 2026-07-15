@@ -1,103 +1,151 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sahil%20Singh&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Aspiring%20SDET&descAlignY=58&descColor=8b949e" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="380" alt="Sahil Singh"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Test+Frameworks+%F0%9F%9A%80;Selenium+%7C+Playwright+%7C+Pytest+%7C+TestNG+%7C+Postman+%7C+Java;Learning+Modern+Playwright+%26+Pytest+Automation+%F0%9F%94%A5;Consistent+DSA+%26+Problem+Solving+Practice+%F0%9F%A7%A0;50-Day+Python+Selenium+QA+Challenge+%E2%9C%85)](https://git.io/typing-svg)
-<br/>
+# Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsingh81)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahilsinghraj)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilrajputsingh81@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1VAIFjLxoMHRCMb1GJjEYYoxlZaL4F_35/view?usp=drivesdk)
+**If you're reading this, just know — you're doing amazing. Keep going.** ✨
+
+QA Automation Engineer | Aspiring SDET | Building frameworks, not just test cases.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Test+Frameworks+%F0%9F%9A%80;Selenium+%7C+Playwright+%7C+Pytest+%7C+TestNG+%7C+Postman+%7C+Java;50-Day+Python+Selenium+QA+Challenge+%E2%9C%85)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsingh81)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahilsinghraj)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahilrajputsingh81@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1VAIFjLxoMHRCMb1GJjEYYoxlZaL4F_35/view?usp=drivesdk)
+![Profile Views](https://komarev.com/ghpvc/?username=SahilSR81&color=58a6ff&style=flat&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨🏻‍💻 **About Me**
 
-```yaml
-role         : QA Automation Engineer
-specializes  : UI Automation • API Automation • CI/CD
-stack        : Playwright • Selenium • Python • Java
-currently    : Building production-grade automation frameworks
-goal         : Product-Based SDET
-location     : Ranchi, India 🇮🇳
-```
+I'm a QA Automation Engineer who builds production-grade automation frameworks — not tutorial projects. I believe every repetitive click is a bug waiting to be automated.
 
-> *I enjoy building production-style automation frameworks instead of tutorial projects. Most of my work focuses on scalable test architecture, API automation, CI/CD integration, and improving software quality through automation.*
+- ✨ **Stack:** Playwright | Selenium | Python | Java
+- ⚡ **Currently:** Building scalable test architecture & CI/CD pipelines
+- 🎯 **Goal:** Product-Based SDET
+- 📍 **Location:** Ranchi, India 🇮🇳
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
+<table>
+<tr>
+<td align="center" width="20%"><b>Languages</b></td>
+<td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodewebkit/nodewebkit-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" height="44"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="44"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="36"/>
 
-[![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logo=testng&logoColor=white)](https://testng.org/)
-![REST Assured](https://img.shields.io/badge/REST_Assured-API_Testing-009688?style=for-the-badge)
-![ExtentReports](https://img.shields.io/badge/ExtentReports-5C2D91?style=for-the-badge&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-Reports-FF6B6B?style=for-the-badge&logoColor=white)
-![Apache POI](https://img.shields.io/badge/Apache%20POI-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Log4j2](https://img.shields.io/badge/Log4j2-007396?style=for-the-badge&logo=apache&logoColor=white)
-</p>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Automation</b></td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" height="36"/> &nbsp;
+[![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=flat&logo=testng&logoColor=white)](https://testng.org/) &nbsp;
+![REST Assured](https://img.shields.io/badge/REST_Assured-009688?style=flat&logo=java&logoColor=white) &nbsp;
+![Allure](https://img.shields.io/badge/Allure-FF6B6B?style=flat&logoColor=white) &nbsp;
+![ExtentReports](https://img.shields.io/badge/ExtentReports-5C2D91?style=flat&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>DevOps</b></td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="36"/>
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>Databases & API</b></td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" height="36"/>
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>IDE & OS</b></td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original-wordmark.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original-wordmark.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodewebkit/nodewebkit-original-wordmark.svg" height="36"/>
+
+</td>
+</tr>
+<tr>
+<td align="center"><b>Reporting</b></td>
+<td align="center">
+
+![Apache POI](https://img.shields.io/badge/Apache_POI-D22128?style=flat&logo=apache&logoColor=white) &nbsp;
+![Log4j2](https://img.shields.io/badge/Log4j2-007396?style=flat&logo=apache&logoColor=white) &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="36"/>
+
+</td>
+</tr>
+</table>
 
 ---
+
 ## ⭐ Flagship Projects
 
-[![OrangeHRM Framework](https://img.shields.io/badge/🧪_OrangeHRM_Framework-F97316?style=for-the-badge)](https://github.com/SahilSR81/playwright-saas-workspace-framework)
-[![REST API Framework](https://img.shields.io/badge/🔌_REST_API_Framework-22C55E?style=for-the-badge)](https://github.com/SahilSR81/playwright-restful-booker-api)
-[![FinTech Framework](https://img.shields.io/badge/🏦_FinTech_Framework-2563EB?style=for-the-badge)](https://github.com/SahilSR81/fintech-playwright-framework-main)
-[![DemoWebShop](https://img.shields.io/badge/🛒_DemoWebShop-7C3AED?style=for-the-badge)](https://github.com/SahilSR81/End2End-QA-Automation-Framework)
+<table>
+<tr>
+<td>
 
-> 🧪 300+ Automated Test Cases | 🚀 7+ QA Projects | ⚙️ 4 Automation Frameworks | 🔌 UI + API + CI/CD | 🐧 Linux Daily Driver
+### 🧪 OrangeHRM Framework
+**Why:** Built a full-page-object-model framework for a real HRMS application to simulate enterprise-grade test automation with role-based logins, dynamic web elements, and CI-ready execution.
+[Repo](https://github.com/SahilSR81/playwright-saas-workspace-framework)
+
+</td>
+<td>
+
+### 🔌 REST API Framework
+**Why:** Designed to test a production-like REST API with end-to-end contract testing, data-driven scenarios, and schema validation — proving API automation beyond just sending GET requests.
+[Repo](https://github.com/SahilSR81/playwright-restful-booker-api)
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🏦 FinTech Framework
+**Why:** Simulates a real-world financial application's QA pipeline — covering login flows, transaction validations, and edge-case scenarios in a domain where accuracy is non-negotiable.
+[Repo](https://github.com/SahilSR81/fintech-playwright-framework-main)
+
+</td>
+<td>
+
+### 🛒 DemoWebShop
+**Why:** End-to-end Selenium + Java framework tackling a full e-commerce workflow — from cart management to checkout validation — built to master Java-based test automation at scale.
+[Repo](https://github.com/SahilSR81/End2End-QA-Automation-Framework)
+
+</td>
+</tr>
+</table>
+
+> 🧪 300+ Automated Test Cases | 🚀 7+ QA Projects | ⚙️ 4 Automation Frameworks | 🔌 UI + API + CI/CD
 
 ---
 
@@ -112,21 +160,20 @@ location     : Ranchi, India 🇮🇳
 
 ---
 
-## 🎮 Quest Log
+<details>
+<summary><b>🎮 Quest Log</b></summary><br>
 
-### ✅ Completed
+**✅ Completed**
 
-- [✅] **Boot** — Successfully deployed to Earth 🌍
-- [✅] **Debug Childhood** — Fixed basic human runtime errors 🧸
-- [✅] **Learn** — Compiling logic, curiosity, and test scripts ☕
-- [✅ ] **Anime Training Arc** — Character development patch installed. Discipline and communication stats increased ⚔️🍿
-- [✅] **Linux Ascension** — Escaped Windows. Never looked back 🐧
-- [✅] **Gym Transformation** — Strength +10 | Confidence +25 | Stamina +∞ 💪
-- [✅] **Postgraduate** — Completed the Master's DLC (MCA) 🎓
+- [x] **Boot** — Successfully deployed to Earth 🌍
+- [x] **Debug Childhood** — Fixed basic human runtime errors 🧸
+- [x] **Learn** — Compiling logic, curiosity, and test scripts ☕
+- [x] **Anime Training Arc** — Character development patch installed ⚔️🍿
+- [x] **Linux Ascension** — Escaped Windows. Never looked back 🐧
+- [x] **Gym Transformation** — Strength +10 | Confidence +25 | Stamina +∞ 💪
+- [x] **Postgraduate** — Completed the Master's DLC (MCA) 🎓
 
----
-
-### 🎯 Current Mission
+**🎯 Current Mission**
 
 - [ ] **Earn** — First job unlocked. Turning bug reports into salary 💸
 - [ ] **First Salary** — Achievement unlocked: "Maa, ho gaya." 💵
@@ -136,9 +183,7 @@ location     : Ranchi, India 🇮🇳
 - [ ] **Remote** — Working in pajamas, professionally 🌍
 - [ ] **Parents Proud** — Highest priority ticket resolved ❤️
 
----
-
-### 🏁 Endgame
+**🏁 Endgame**
 
 - [ ] **Validate** — UI, API & Backend checks passed for the perfect partner ❤️
 - [ ] **Merge to Main** — Marriage approved after successful code review 💍
@@ -147,19 +192,50 @@ location     : Ranchi, India 🇮🇳
 - [ ] **Retirement** — Legacy system enters maintenance mode 🌴
 - [ ] **Shutdown** — Process exited with Exit Code 0. Logs archived. ⚫
 
+</details>
+
 ---
 
-## 📊 GitHub Stats
+<details>
+<summary><b>📜 Certifications</b></summary><br>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SahilSR81&theme=microsoft-dark&t=1752420000)](https://git.io/streak-stats)
+<a href="https://www.linkedin.com/in/sahilsingh81">
+<img src="https://img.shields.io/badge/Internshala-QA_Testing-0077B5?style=for-the-badge&logo=internshala&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sahilsingh81">
+<img src="https://img.shields.io/badge/Selenium-Python-437CAC?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sahilsingh81">
+<img src="https://img.shields.io/badge/Playwright-Microsoft-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sahilsingh81">
+<img src="https://img.shields.io/badge/Postman-API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</a>
+
+<br>
+
+> Add your certificate PNG images below and link them to the credential URL.
+
+<!-- 
+Example:
+<a href="https://certificate-url.com">
+<img src="https://raw.githubusercontent.com/SahilSR81/SahilSR81/main/certifications/your-cert.png" width="180" alt="Cert Name"/>
+</a>
+-->
 
 </div>
 
+</details>
+
 ---
 
-## 🌱 Currently Learning
+<details>
+<summary><b>🌱 Currently Learning</b></summary><br>
 
 - Playwright Advanced
 - Docker
@@ -168,27 +244,31 @@ location     : Ranchi, India 🇮🇳
 - Performance Testing (JMeter/k6)
 - AI-assisted Test Automation
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-If you're hiring for QA/SDET roles, collaborating on automation projects, or just want to talk about testing — let's connect!
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-singh-86645140a)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilrajputsingh81@gmail.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahilsinghraj)
-
-</div>
+</details>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SahilSR81&show_icons=true&theme=microsoft-dark&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilSR81&layout=compact&theme=microsoft-dark&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=SahilSR81&theme=microsoft-dark&hide_border=true)](https://git.io/streak-stats)
+</p>
+
+---
+
+```
+$ uptime
+QA Automation Engineer by passion. Building scalable test frameworks. Always shipping.
+```
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SahilSR81&color=58a6ff&style=for-the-badge&label=Profile+Views)
 
 *"Quality is not an act, it is a habit."* — Aristotle
 
