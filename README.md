@@ -30,7 +30,7 @@ I'm passionate about building automation that scales—not just scripts that pas
 
 [![OrangeHRM](https://img.shields.io/badge/🧪_OrangeHRM-72_Tests_•_UI_+_API_•_Docker_•_BDD-F97316?style=plastic)](https://github.com/SahilSR81/playwright-saas-workspace-framework)
 [![RESTful Booker](https://img.shields.io/badge/🔌_RESTful_Booker-46_Tests_•_CRUD_•_JSON_Schema_•_CI/CD-22C55E?style=plastic)](https://github.com/SahilSR81/playwright-restful-booker-api)
-[![FinTech Banking](https://img.shields.io/badge/🏦_FinTech_Banking-35_Tests_•_10_Banking_Flows_•_Cross_Browser_•_CI/CD-3B82F6?style=plastic)](https://github.com/SahilSR81/fintech-playwright-framework-saas)
+[![FinTech Banking](https://img.shields.io/badge/🏦_FinTech_Banking-35_Tests_•_10_Banking_Flows_•_Cross_Browser_•_CI/CD-3B82F6?style=plastic)](https://github.com/SahilSR81/fintech-playwright-framework-main)
 [![DemoWebShop](https://img.shields.io/badge/🛒_DemoWebShop-139_Test_Cases_•_Selenium_•_Postman_•_PostgreSQL-A855F7?style=plastic)](https://github.com/SahilSR81/End2End-QA-Automation-Framework)
 
 <details>
