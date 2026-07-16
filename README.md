@@ -1,4 +1,4 @@
-## Hi there! I am Sahil &nbsp;&nbsp;&nbsp;[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1VAIFjLxoMHRCMb1GJjEYYoxlZaL4F_35/view?usp=drivesdk) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahilrajputsingh81@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsingh81) ![Profile Views](https://komarev.com/ghpvc/?username=SahilSR81&color=58a6ff&style=flat&label=Profile+Views)
+## Hi there! I am Sahil &nbsp;&nbsp;&nbsp;[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1g7MOxb2icLTae8rVZBlob8QGAYiCFJaQ/view?usp=drive_link) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahilrajputsingh81@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsingh81) ![Profile Views](https://komarev.com/ghpvc/?username=SahilSR81&color=58a6ff&style=flat&label=Profile+Views)
 
 I'm passionate about building automation that scales—not just scripts that pass. I enjoy understanding how applications behave, designing maintainable test architectures, and creating frameworks that help teams ship software with confidence. When I'm not automating workflows, I'm usually exploring Linux, improving developer tooling, or looking for the next repetitive task that deserves to disappear.
 
@@ -122,4 +122,5 @@ I'm passionate about building automation that scales—not just scripts that pas
 <img src="https://github-stats-extended.vercel.app/api?username=SahilSR81&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" width="35%"/>
 <img src="https://streak-stats.demolab.com?user=SahilSR81&theme=microsoft-dark&hide_border=true" width="35%"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SahilSR81&layout=compact&langs_count=4&theme=transparent&hide_border=true" width="29%"/>
+</p>&layout=compact&langs_count=4&theme=transparent&hide_border=true" width="29%"/>
 </p>
