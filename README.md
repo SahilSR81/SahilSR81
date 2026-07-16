@@ -1,6 +1,6 @@
 ## Hi there! I am Sahil &nbsp;&nbsp;&nbsp;[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1g7MOxb2icLTae8rVZBlob8QGAYiCFJaQ/view?usp=drive_link) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahilrajputsingh81@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsingh81) ![Profile Views](https://komarev.com/ghpvc/?username=SahilSR81&color=58a6ff&style=flat&label=Profile+Views)
 
-I'm passionate about building automation that scales—not just scripts that pass. I enjoy understanding how applications behave, designing maintainable test architectures, and creating frameworks that help teams ship software with confidence. When I'm not automating workflows, I'm usually exploring Linux, improving developer tooling, or looking for the next repetitive task that deserves to disappear.
+I'm passionate about building automation that scales—not just scripts that pass. I enjoy understanding how applications behave, designing maintainable test architectures, and creating frameworks that help teams ship software with confidence. When I'm not automating workflows, I'm usually improving developer tooling or looking for the next repetitive task that deserves to disappear.
 
 #### 🛠️ Tech Stack & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/> &nbsp;
