@@ -101,6 +101,17 @@ I'm passionate about building automation that scales—not just scripts that pas
 <a href="https://www.qabazaar.com/badge/6bd2b2b1-b506-43a5-af6e-cee73a10bcef">
 <img src="https://img.shields.io/badge/QA_Bazaar-Edge_Walker_L3-6C63FF?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </a>
+<a href="https://verify.skilljar.com/c/34sarqbsq5wv">
+<img src="https://img.shields.io/badge/Anthropic-Claude_Code_101-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+</a> &nbsp;
+
+<a href="https://verify.skilljar.com/c/vtmu6qxp2kbi">
+<img src="https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+</a> &nbsp;
+
+<a href="https://verify.skilljar.com/c/bkytxjcem7p8">
+<img src="https://img.shields.io/badge/Anthropic-Model_Context_Protocol_(MCP)-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+</a>
 
 </div>
 
