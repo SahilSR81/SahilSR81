@@ -131,7 +131,7 @@ I'm passionate about building automation that scales—not just scripts that pas
 #### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=SahilSR81&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&v=2" width="35%"/>
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="35%"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SahilSR81&theme=transparent&hide_border=true" alt="GitHub Streak" width="35%"/></a>
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SahilSR81&layout=compact&langs_count=4&theme=transparent&hide_border=true&v=2" width="29%"/>
 </p>
 
