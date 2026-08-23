@@ -43,7 +43,7 @@ I'm passionate about building automation that scales—not just scripts that pas
 - [x] **Postgraduate** — Completed the Master's DLC (MCA) 🎓
 
 **🎯 Current Mission**
-- [ ] **Earn** — First job unlocked. Turning bug reports into salary 💸
+- [x] **Earn** — First job unlocked. Turning bug reports into salary 💸
 - [ ] **First Salary** — Achievement unlocked: "Maa, ho gaya." 💵
 - [ ] **Break Production** — Professionally finding bugs before users do 🐞
 - [ ] **Automate Everything** — Because repetitive clicking is a bug 🤖
